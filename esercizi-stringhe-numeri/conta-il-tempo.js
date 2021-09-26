@@ -12,3 +12,15 @@
 
   http://www.imparareaprogrammare.it
 */
+
+
+// var h = 1;
+// var min = h*60;
+
+// console.log(min*60);
+
+var s = 12560;
+var m = s%60;
+var h = m%60;
+
+console.log(h);

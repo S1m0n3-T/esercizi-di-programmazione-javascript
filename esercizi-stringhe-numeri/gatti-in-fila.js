@@ -17,3 +17,11 @@
 
   http://www.imparareaprogrammare.it
 */
+
+var cats = 44;
+var file = 6;
+
+console.log(Math.ceil(cats/file));
+
+console.log(cats%file);
+//gatti mancanti per completare ultima fila = ?
